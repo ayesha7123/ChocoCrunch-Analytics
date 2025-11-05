@@ -102,7 +102,7 @@ ChocoCrunch-Analytics/
 
 #### Clone Repository
 ```
-https://github.com/Maryam-Feroz/-ChocoCrunch-Analytics.git
+https://github.com/ayesha7123/ChocoCrunch-Analytics.git
 cd ChocoCrunch-Analytics
 ```
 
