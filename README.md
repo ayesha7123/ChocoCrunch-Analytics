@@ -121,7 +121,7 @@ db_name="choco_crunch"
 ```
 #### Run the Streamlit App
 ```
-streamlit run app.py
+streamlit run chococrunch.py
 ```
 The app will open in your default browser at``` http://localhost:8501.```
 
